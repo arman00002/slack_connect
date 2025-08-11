@@ -36,3 +36,7 @@ Slack’s OAuth flow is strict about redirect URIs — I had to exactly match th
 Working with node-cron means understanding cron expressions; testing with “every minute” jobs made debugging easier.
 
 Making sure both frontend & backend ran together without CORS issues took some tweaking.
+<br>
+
+front end deploy:https://app.netlify.com/projects/tourmaline-pudding-c5eacc<br>
+backend deploy: https://slack-connect-8pt1.onrender.com
